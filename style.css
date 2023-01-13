@@ -1,0 +1,28 @@
+h1{
+    background: rgb(169,96,218);
+background: linear-gradient(90deg, rgba(169,96,218,1) 0%, rgba(233,93,93,1) 50%, rgba(194,136,55,1) 100%);
+margin: 0px;
+color: rgb(224, 222, 222);
+}
+#note{
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
+
+.btn{
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 3px;
+    font-size: 15px;
+    border: none;
+}
+.btn:hover{
+    background-color: white;
+    color: blue;
+    border:  2px solid blue;
+}
+span{
+    background: rgb(244,209,81);
+background: linear-gradient(0deg, rgba(244,209,81,1) 45%, rgba(253,45,45,1) 100%);
+}
